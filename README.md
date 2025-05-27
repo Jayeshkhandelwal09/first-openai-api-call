@@ -9,6 +9,10 @@ A simple Node.js script demonstrating how to make API calls to OpenAI's GPT-3.5 
 - Takes user input via console
 - Displays the AI's response and token usage statistics
 
+## ScreenShots
+<img width="490" alt="Screenshot 2025-05-28 at 2 15 35 AM" src="https://github.com/user-attachments/assets/ac8710a3-88c1-4e0f-89ec-66a79c527eb2" />
+
+
 ## Setup
 
 1. Install dependencies:
